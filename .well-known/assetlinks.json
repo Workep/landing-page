@@ -1,0 +1,34 @@
+{
+  "intentFilters": [
+    {
+      "action": "VIEW",
+      "autoVerify": true,
+      "data": [
+        {
+          "scheme": "https",
+          "host": "*.workep.com",
+          "pathPrefix": "/t"
+        },
+        {
+          "scheme": "https",
+          "host": "*.workep.com",
+          "pathPrefix": "/task"
+        },
+        {
+          "scheme": "https",
+          "host": "*.workep.com",
+          "pathPrefix": "/p"
+        },
+        {
+          "scheme": "https",
+          "host": "*.workep.com",
+          "pathPrefix": "/project"
+        }
+      ],
+      "category": [
+        "BROWSABLE",
+        "DEFAULT"
+      ]
+    }
+  ]
+}

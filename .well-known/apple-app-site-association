@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "XFHA7NKC85.com.workep.app",
+      "paths": [
+        "/t/*",
+        "/task/*",
+        "/p/*",
+        "/project/*"
+      ]
+    }]
+  },
+}
