@@ -23,6 +23,11 @@
           "scheme": "https",
           "host": "*.workep.com",
           "pathPrefix": "/project"
+        },
+        {
+          "scheme": "https",
+          "host": "*.workep.com",
+          "pathPrefix": "/dailybot"
         }
       ],
       "category": [
