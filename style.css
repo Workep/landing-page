@@ -83,6 +83,24 @@ border:none; -webkit-border-radius: 0; -moz-border-radius: 0; -ms-border-radius:
 .main_head .navbar-nav > li.loginbtn a{border:2px solid #b0bec5 !important; padding: 5px 20px;-webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px;}
 .main_head .navbar-nav > li.loginbtn a:hover{ background:#167ee6; color: #fff !important; border-color: #167ee6 !important; }
 
+.covid-banner{width: 100%;
+    height: 50px;
+    background: #177de6;
+    border-radius: 0 0 20px 20px;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;}
+
+.covid-banner h2{font-size: 22px;
+    line-height: 49px;
+    font-weight: 700;
+    margin: 0;
+    color: white;
+    text-decoration: underline;}
+
 .banner_sec.common_gap{padding-top: 130px;}
 .pricing-page .banner_sec:before{content: ''; position: absolute; right: 0; top: 0; background:url(images/banner_bg1.png) no-repeat right top;
 width: 1150px; height: 1000px; background-size: 100%;}
@@ -385,7 +403,7 @@ display: flex; justify-content: center;}
 .joinworkep_btns{width: 100%; text-align: center; padding-top: 40px;}
 .joinworkep_btns ul{padding: 0; list-style: none; margin: 0 auto; display: table;}
 .joinworkep_btns ul li{ float: left; margin: 0 10px;}
-.signupgoogle,.g_suitbtn{display: inline-block; padding:8px 29px; background:#fff; -webkit-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.05);-webkit-border-radius: 30px;
+.signupgoogle,.g_suitbtn{display: inline-block; padding:8px 29px; background:#fff; -webkit-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-moz-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-webkit-border-radius: 30px;
 -moz-border-radius: 30px; border-radius: 30px; min-height: 65px;-ms-flex-align: center;
 -webkit-align-items: center;-webkit-box-align: center;align-items: center;
 display: -webkit-box;
@@ -398,7 +416,7 @@ display: flex; font-weight: 700; font-size: 16px;color: #273238;}
 .signupgoogle:hover{background-color: #273238; color: #fff;}
 
 
-.g_suitbtn{background: url(images/g_suite.png) no-repeat 34px center #273238; background-size: 30px; padding-left: 75px !important; color: #fff;}
+.g_suitbtn{background: url(images/g_market.png) no-repeat 34px center #273238; background-size: 30px; padding-left: 75px !important; color: #fff;}
 .ratings_star i{font-size: 11px; line-height: 12px;}
 
 .g_suitbtn:hover{background-color: #16191a; color: #fff;}
@@ -1632,11 +1650,23 @@ content: ''; position: absolute; left: 0; top: 0px;background-size: 100%;}
 .resource_sec_download{padding-bottom: 0 !important;}
 
 
-.index_banner{padding-top: 210px; position: relative;}
-.index_banner_content{position: absolute; top:15%; left: -8%; text-align: left; right: 0; display: block;margin: 0 auto;}
+/* .index_banner{padding-top: 210px; position: relative;} */
+
+.index_banner{margin: 120px 0 0;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    height: 100%;
+    width: 100%;
+    display: flex;}
+
+/* .index_banner_content{position: absolute; top:15%; left: -8%; text-align: left; right: 0; display: block;margin: 0 auto;} */
 
 .index_banner_content h1{ font-size: 45px; color: #273238; font-weight: 700; margin: 0 0 12px 0; }
-.index_banner_content p{font-size: 19px; line-height: 30px; color: #90a4ae;}
+.index_banner_content p{font-size: 22px; line-height: 30px; color: #90a4ae; padding: 0 50px 0 0;}
 .index_banner_content .joinworkep_btns{padding-top: 20px;}
 .index_banner_content .joinworkep_btns ul{margin: 0;}
 .index_banner_content .joinworkep_btns ul li:first-child{margin-left: 0;}
@@ -1648,7 +1678,28 @@ content: ''; position: absolute; left: 0; top: 0px;background-size: 100%;}
 background: url(images/indextopbg1.png) no-repeat 0 0;background-size: 100%; z-index: -1;}
 
 .madeforgoogle_banner.madeforgoogle_banner_index{padding-top: 0;}
-.index_made_forgoogle{position: relative;z-index: 1;margin-top: -100px; padding-top: 0 !important;}
+.index_made_forgoogle{position: relative;z-index: 1; padding-top: 0 !important;}
+
+
+/* Covid video */
+.video_covid_container{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.video_covid_wrapper{
+  width: 1200px;
+  height: 500px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);
+}
 
 .index_made_forgoogle_bot{position: relative; min-height: 635px; }
 .index_made_forgoogle_bot .madeforgoogle_ban_content{position: absolute; left: 0; right: 0;top: 50%;-webkit-transform: translateY(-50%);
@@ -2549,8 +2600,8 @@ padding-left: 50px !important; background-position: 17px center;}
 .request_demo_rt .starttrial_btn{font-size: 18px;}
 .request_demo_rt p br{display: none;}
 
-.index_banner{padding-top: 240px;}
-.index_made_forgoogle{margin-top: -30px;}
+/* .index_banner{padding-top: 240px;} */
+/* .index_made_forgoogle{margin-top: -30px;} */
 .index_made_forgoogle_bot{min-height: 430px;}
 .index_made_forgoogle_bot .madeforgoogle_banner_box p{font-size: 14px; line-height: 21px;}
 .index_made_forgoogle_bot .starttrial_btn{margin-left: 0;}
@@ -2566,7 +2617,7 @@ padding-left: 50px !important; background-position: 17px center;}
 
 @media (max-width: 767px) {
 
-
+.index_banner{flex-direction: column;}
 .banner_sec{padding-top: 20px;}
 .partnertg{position: relative;left: inherit; bottom: inherit; margin: 0 0 30px 0; }
 .common_gap{padding-top: 40px; padding-bottom: 40px;}
@@ -2845,9 +2896,9 @@ position: relative; display: inline-block;}
 .as_flexible_as .resp-accordion a span{padding-left: 0 !important;}
 .index_banner_content{text-align: center;}
 .index_banner_content h1{font-size: 30px; line-height: 36px;}
-.index_banner_content p{font-size: 16px; line-height: 27px;}
+.index_banner_content p{font-size: 16px; line-height: 27px; padding: 0;}
 .index_banner_content .joinworkep_btns ul{margin: 0 auto;}
-.index_banner{padding-top: 240px;}
+/* .index_banner{padding-top: 240px;} */
 /*.index_made_forgoogle_bot{padding-bottom: 40px;}*/
 .index_made_forgoogle_bot .starttrial_btn{margin-top: 30px;}
 
@@ -2929,7 +2980,7 @@ flex: 0 0 100%;max-width: 100%;padding-left: 0;text-align: center;}
 .startsec_in h3{font-size: 20px; line-height: 30px;}
 
 
-.index_banner_content h1{font-size: 22px; line-height: 28px;}
+.index_banner_content h1{font-size: 25px; line-height: 28px;}
 .index_banner_content{top: 17%;}
 .index_banner_content .signupgoogle, .index_banner_content .g_suitbtn{font-size: 11px;line-height: 20px; padding: 3px 20px;}
 .index_banner_content .signupgoogle{background-size: 18px;background-position: 20px center;padding-left: 48px !important;}
@@ -3171,8 +3222,10 @@ h4{font-size: 18px;}
 
 .anykind_team .section_title{padding-left: 0; text-align: center;}
 .index_banner_content p{font-size: 14px; line-height: 20px;}
-.index_banner_content h1{font-size: 20px; line-height: 25px;}
-.index_banner{padding-top: 300px;}
+.index_banner_content h1{font-size: 22px; line-height: 25px;}
+/* .index_banner{padding-top: 300px;} */
+.index_banner{flex-direction: column;}
+
 .foundation_sec_slider .foundation_sec_slider_nav .prod_feature_box h4{font-size: 13px; line-height: 18px;}
 
 .all_teams_sizebox{ display: block; }
