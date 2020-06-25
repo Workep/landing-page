@@ -192,6 +192,8 @@ display: -webkit-flex;display: flex; margin-left: 36px; margin-top: 20px; positi
   float:right;
 }
 
+.hero-covid{width:300px; height:225;}
+
 
 
 .common_gap{padding-top: 80px; padding-bottom: 80px;}
@@ -1374,6 +1376,7 @@ border-radius: 50%; border: none; font-size: 0; cursor: pointer; position: absol
   background-size: 18px; right:-48px;}
 
 .product_banner{text-align: center; padding-top: 150px !important;}
+.product_banner_covid{text-align: center; padding-top: 100px !important;}
 .joinworkep.product_banner:after{content: ''; position: absolute; right: 0; top: 0; width: 1204px; height: 886px;
  background: url(images/product_ban_bg1.png) no-repeat  right top;background-size: 100%; z-index: -1; left: inherit;}
 .product_banner .section_title{margin-bottom: 30px;}
