@@ -191,9 +191,11 @@ display: -webkit-flex;display: flex; margin-left: 36px; margin-top: 20px; positi
   animation: bounceRight 2s infinite;
   float:right;
 }
-.hbspt-form{margin:0 auto!important; width: 50%;}
+.hbspt-form{margin:0 auto!important; width: 50%!important;}
+
 .hero-covid{width:300px; height:225px;}
-#hubspot-form{margin:0 auto;width: 50%;}
+
+#hubspot-form{margin:0 auto!important; width:50%!important;}
 
 
 .common_gap{padding-top: 80px; padding-bottom: 80px;}
