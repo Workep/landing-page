@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /app.workep.com/login
+
+Sitemap: https://workep.com/sitemap.xml
