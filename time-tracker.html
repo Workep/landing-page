@@ -1,13 +1,13 @@
 <!doctype html>
 <html lang="en">
-  <head>	
+  <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Time traker on Workep</title>
     <!-- Page icon -->
     <link rel="shortcut icon" href="https://res.cloudinary.com/cegalvarez/image/upload/c_scale,w_48/v1479745739/logo_qvnjq5.ico" type="image/x-icon">
-    <link rel="canonical" href="https://workep.com/time-tracker.html" />  
+    <link rel="canonical" href="https://workep.com/time-tracker.html" />
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/easy-responsive-tabs.css">
     <link rel="stylesheet" href="css/animate.css">
@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="css/style.competitors.css">
   </head>
 <body>
-    
+
 
 
 
@@ -64,9 +64,9 @@
           <figcaption>
             <p>Never lose track of where your time is going with Workep’s in-app time tracker. We’ll even add wellness breaks to remind you to pause after working on tasks.</p>
           </figcaption>-->
-            <br>
-            <br>
-            <br>
+            <br/>
+            <br/>
+            <br/>
         </div>
         <div class="time_tracking_step">
           <div class="row">
@@ -146,8 +146,8 @@
       </ul>
     </div>
   </div>
-
 </div>
+
 <footer class="main_footer">
     <div class="foot_top">
       <div class="container">
@@ -201,7 +201,7 @@
                 <li><a href="https://workep.com/competitors-smartsheet.html">Smartsheet</a></li>
                 <li><a href="https://workep.com/competitors-trello.html">Trello</a></li>
                 <li><a href="https://workep.com/competitors-wrike.html">Wrike</a></li>
-            </ul>  
+            </ul>
           </div>
           <div class="foot4">
             <h4>Resources</h4>
@@ -233,7 +233,7 @@
                <li><a href="mailto:service@workep.com?Subject=Hello%20Workep%20Team!"><img src="images/con_ic3.png" alt="E-mail"></a></li>
             </ul>
           </div>
-       
+
         </div>
       </div>
     </div>
@@ -281,9 +281,53 @@
 
 <script src="js/dics.original.js"></script>
 
-<script src="js/common.js"></script>
+<!-- Header background scroll -->
+<script type="text/javascript">
+  // fix menu bar
+  $(window).scroll(function() {
+      var scroll = $(window).scrollTop();
+      if (scroll > 20) {
+          $(".main_head").addClass("fixed");
+      }
+      else
+         $(".main_head").removeClass("fixed");
+  });
+
+  if($(window).width() < 1025)
+  {
+      $( "<span class='clickD'></span>" ).insertAfter(".main_head.navbar-nav > li.menu-item-has-children > a");
+  }
+   $('.main_head .navbar-nav li .clickD').click(function(e) {
+      e.preventDefault();
+      var $this = $(this);
+
+      if ($this.next().hasClass('show')) {
+          $this.next().removeClass('show');
+          $this.removeClass('toggled');
+          $this.next().hide();
+      } else {
+          $this.parent().parent().find('.sub-menu').removeClass('show');
+          $this.parent().parent().find('.toggled').removeClass('toggled');
+          $this.parent().parent().find('.sub-menu').hide();
+          $this.next().toggleClass('show');
+          $this.toggleClass('toggled');
+          $this.next().show();
+      }
+  });
+
+  $('html').click(function(){
+      $('.main_head .navbar-nav li .clickD').removeClass('toggled');
+  });
+    $(document).click(function(){
+       $('.main_head .navbar-nav li .clickD').removeClass('toggled');
+  });
+    $('.main_head .navbar-nav').click(function(e){
+    e.stopPropagation();
+  });
+</script>
+<!-- End Header background scroll -->
 
 
 
   </body>
-</html>	
+</html>
