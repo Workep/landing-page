@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://workep.com/</loc>
-    <lastmod>2020-06-26</lastmod>
+    <lastmod>2020-07-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>1.0</priority>
       <image:image>
         <image:loc>https://workep.com/images/menu_bars.svg</image:loc>
         <image:title>workep menu</image:title>
@@ -223,10 +223,102 @@
       </image:image>
   </url>
   <url>
-    <loc>https://projectmanagement.workep.com/request-demo</loc>
-    <lastmod>2020-06-20</lastmod>
+    <loc>https://workep.com/downloadapps.html</loc>
+    <lastmod>2020-07-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://workep.com/images/menu_bars.svg</image:loc>
+        <image:title>workep menu</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/playstore-add3.png</image:loc>
+        <image:title>Google Add</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/appstore@3x.png</image:loc>
+        <image:title>App Store</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google-play@3x.png</image:loc>
+        <image:title>Google Play</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/twit.svg</image:loc>
+        <image:title>workep twitter</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/fb.svg</image:loc>
+        <image:title>workep facebook</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/ins.svg</image:loc>
+        <image:title>workep instagram</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_play.png</image:loc>
+        <image:title>workep android</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/app_store.png</image:loc>
+        <image:title>workep iOS</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://workep.com/privacy-policy.html</loc>
+    <lastmod>2020-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://workep.com/images/menu_bars.svg</image:loc>
+        <image:title>workep menu</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/legal_banner_im2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/twit.svg</image:loc>
+        <image:title>workep twitter</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/fb.svg</image:loc>
+        <image:title>workep facebook</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/ins.svg</image:loc>
+        <image:title>workep instagram</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_play.png</image:loc>
+        <image:title>workep android</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/app_store.png</image:loc>
+        <image:title>workep iOS</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://projectmanagement.workep.com/request-demo</loc>
+    <lastmod>2020-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
       <image:image>
         <image:loc>https://projectmanagement.workep.com/hs-fs/hubfs/logo.png?width=152&amp;name=logo.png</image:loc>
         <image:title>logo</image:title>
@@ -330,9 +422,9 @@
   </url>
   <url>
     <loc>https://projectmanagement.workep.com/everything-you-need-to-know-about-project-management</loc>
-    <lastmod>2020-06-20</lastmod>
+    <lastmod>2020-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
       <image:image>
         <image:loc>https://projectmanagement.workep.com/hubfs/defaultPending_lugsdl.png</image:loc>
         <image:title>smilesyellow</image:title>
@@ -376,9 +468,9 @@
   </url>
   <url>
     <loc>https://projectmanagement.workep.com/12-skills-project-manager-needs-to-master</loc>
-    <lastmod>2020-06-20</lastmod>
+    <lastmod>2020-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
       <image:image>
         <image:loc>https://projectmanagement.workep.com/hs-fs/hubfs/logo.png?width=152&amp;name=logo.png</image:loc>
         <image:title>logo</image:title>
@@ -481,10 +573,52 @@
       </image:image>
   </url>
   <url>
-    <loc>https://projectmanagement.workep.com/project-management-made-simple</loc>
-    <lastmod>2020-06-20</lastmod>
+    <loc>https://workep.com/terms.html</loc>
+    <lastmod>2020-07-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://workep.com/images/menu_bars.svg</image:loc>
+        <image:title>workep menu</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/legal_banner_im2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/twit.svg</image:loc>
+        <image:title>workep twitter</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/fb.svg</image:loc>
+        <image:title>workep facebook</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/ins.svg</image:loc>
+        <image:title>workep instagram</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_play.png</image:loc>
+        <image:title>workep android</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/app_store.png</image:loc>
+        <image:title>workep iOS</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://projectmanagement.workep.com/project-management-made-simple</loc>
+    <lastmod>2020-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
       <image:image>
         <image:loc>https://projectmanagement.workep.com/hs-fs/hubfs/logo.png?width=152&amp;name=logo.png</image:loc>
         <image:title>logo</image:title>
@@ -539,10 +673,566 @@
       </image:image>
   </url>
   <url>
-    <loc>https://projectmanagement.workep.com/contact-sales</loc>
-    <lastmod>2020-06-20</lastmod>
+    <loc>https://workep.com/pricing.html</loc>
+    <lastmod>2020-07-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://workep.com/images/menu_bars.svg</image:loc>
+        <image:title>workep menu</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/banner_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google-cloud.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/gsuite.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/gantt-b-w.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/templates.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/timetracker-grey.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/support.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/multipleteams-b-w.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/cost-grey.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/rolesb-w.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/marketplace-b-w.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/apib-w.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/fully-personalized.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/advancedreportsb-w.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/backupsb-w.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/gantt.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/timetracker.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/multipleteams.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/cost.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/roles.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/marketplace.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/apib-w-color.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/fully-personalizedcolor.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/advancedreports.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/backupscolor.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/group-9.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/profile_im1.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/star.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp4.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp5.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp6.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp7.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp8.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp9.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp10.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp11.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp12.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/comp13.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/cancel.svg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/faq_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/twit.svg</image:loc>
+        <image:title>workep twitter</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/fb.svg</image:loc>
+        <image:title>workep facebook</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/ins.svg</image:loc>
+        <image:title>workep instagram</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_play.png</image:loc>
+        <image:title>workep android</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/app_store.png</image:loc>
+        <image:title>workep iOS</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://workep.com/madeforgoogle.html</loc>
+    <lastmod>2020-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://workep.com/images/menu_bars.svg</image:loc>
+        <image:title>workep menu</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_banner_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/gsuit_missing_hlf_im.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/sinup_ic1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/sinup_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/sinup_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/sinup_ic4.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/sinup_ic5.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/sinup_ic6.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/sinup_ic7.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/gmail_addon.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_addon_im1.png</image:loc>
+        <image:title>workep for gmail</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/in-your-email.png</image:loc>
+        <image:title>workep for gmail</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/workep-email.png</image:loc>
+        <image:title>workep for gmail</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_drive_ic.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_drive_slide3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_drive_slide2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_calender.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_proj_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_proj_im2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_proj_im3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/project_right_im.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_chat_im.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google-chat.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_cloud.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/twit.svg</image:loc>
+        <image:title>workep twitter</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/fb.svg</image:loc>
+        <image:title>workep facebook</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/ins.svg</image:loc>
+        <image:title>workep instagram</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_play.png</image:loc>
+        <image:title>workep android</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/app_store.png</image:loc>
+        <image:title>workep iOS</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://workep.com/workep-for-education.html</loc>
+    <lastmod>2020-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://workep.com/images/menu_bars.svg</image:loc>
+        <image:title>workep menu</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/education_banner_im.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/you.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/your_teacher.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/your_classmate.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/collab_image1.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/collab_image2.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/collab_image3.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/proj_manage_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/proj_manage_im2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/proj_manage_im3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/how_works_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/how_works_im2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/how_works_im3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/price_ic1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/price_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/price_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/berkeley.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/ratings_star.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/peoplefaces/sibyl.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/logos/eusa.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/peoplefaces/javier.jpeg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/twit.svg</image:loc>
+        <image:title>workep twitter</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/fb.svg</image:loc>
+        <image:title>workep facebook</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/ins.svg</image:loc>
+        <image:title>workep instagram</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_play.png</image:loc>
+        <image:title>workep android</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/app_store.png</image:loc>
+        <image:title>workep iOS</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://workep.com/partners.html</loc>
+    <lastmod>2020-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://workep.com/images/menu_bars.svg</image:loc>
+        <image:title>workep menu</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/partner_banner_im.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/missing-half.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/make-money.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/complete-offering.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/training-support.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_drive_ic.png</image:loc>
+        <image:title>Google Drive Workep</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_calender.png</image:loc>
+        <image:title>Google Calendar workep</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/gmail_addon.png</image:loc>
+        <image:title>gmail workep</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/bulb.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/addi_resource1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/addi_resource2.png</image:loc>
+        <image:title>workep partners</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/addi_resource3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/join-our-family.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/twit.svg</image:loc>
+        <image:title>workep twitter</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/fb.svg</image:loc>
+        <image:title>workep facebook</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/ins.svg</image:loc>
+        <image:title>workep instagram</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_play.png</image:loc>
+        <image:title>workep android</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/app_store.png</image:loc>
+        <image:title>workep iOS</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://projectmanagement.workep.com/contact-sales</loc>
+    <lastmod>2020-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
       <image:image>
         <image:loc>https://projectmanagement.workep.com/hs-fs/hubfs/logo.png?width=152&amp;name=logo.png</image:loc>
         <image:title>logo</image:title>
@@ -645,30 +1335,266 @@
       </image:image>
   </url>
   <url>
-    <loc>https://blog.workep.com/why-you-need-an-online-to-do-list-with-g-suite-integration</loc>
-    <lastmod>2020-06-20</lastmod>
+    <loc>https://workep.com/product.html</loc>
+    <lastmod>2020-07-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.9</priority>
       <image:image>
-        <image:loc>https://blog.workep.com/hs-fs/hubfs/Online%20To-Do%20List%20in%20Google%20with%20G%20Suite%20Integration.png?width=1920&amp;name=Online%20To-Do%20List%20in%20Google%20with%20G%20Suite%20Integration.png</image:loc>
-        <image:title>Online To-Do List in Google with G Suite Integration</image:title>
+        <image:loc>https://workep.com/images/menu_bars.svg</image:loc>
+        <image:title>workep menu</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/gen2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/prod_ic1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/prod_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/prod_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/prod_ic4.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/prod_ic5.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/prod_ic6.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/task_animate_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/a_task_content.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/task_pop1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/task_pop2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_doc_image2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/freshinbox.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/inbox_text1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/teskcheck1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/teskcheck2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/teskcheck3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/inbox_text2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/teskcheck4.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/teskcheck5.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/prog_marketing_title_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/boost_bus_image1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/roles_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/budget-tracker-im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/voice_notesim1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/extar_colab_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/anyteam/consulting.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/anyteam/marketing.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/anyteam/education.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/anyteam/enterprise.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/anyteam/software-dev.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/anyteam/lawyers.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/cameron.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/floyed.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/chester.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/caroline.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/peoplefaces/dennis.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/peoplefaces/brandon.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/peoplefaces/rachel.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/peoplefaces/evelyn.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/peoplefaces/ryan.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/peoplefaces/hilda.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/request_demo_im.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/resource_im1.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/resource_im3.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/tool_im1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/tool_im2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/con_ic3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/twit.svg</image:loc>
+        <image:title>workep twitter</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/fb.svg</image:loc>
+        <image:title>workep facebook</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/ins.svg</image:loc>
+        <image:title>workep instagram</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/google_play.png</image:loc>
+        <image:title>workep android</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://workep.com/images/app_store.png</image:loc>
+        <image:title>workep iOS</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://blog.workep.com/features-project-management-software-should-have</loc>
-    <lastmod>2020-06-20</lastmod>
+    <lastmod>2020-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://blog.workep.com/hs-fs/hubfs/5features-project-management-software.png?width=600&amp;name=5features-project-management-software.png</image:loc>
         <image:title>5features-project-management-software</image:title>
       </image:image>
   </url>
   <url>
-    <loc>https://blog.workep.com/g-suite-project-management-magic-spell-to-success</loc>
-    <lastmod>2020-06-20</lastmod>
+    <loc>https://blog.workep.com/why-you-need-an-online-to-do-list-with-g-suite-integration</loc>
+    <lastmod>2020-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://blog.workep.com/hs-fs/hubfs/Online%20To-Do%20List%20in%20Google%20with%20G%20Suite%20Integration.png?width=1920&amp;name=Online%20To-Do%20List%20in%20Google%20with%20G%20Suite%20Integration.png</image:loc>
+        <image:title>Online To-Do List in Google with G Suite Integration</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://blog.workep.com/7-common-problems-a-pm-has-and-how-to-effectively-solve-them</loc>
+    <lastmod>2020-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://blog.workep.com/hs-fs/hubfs/5commonproblems@3x.png?width=600&amp;name=5commonproblems@3x.png</image:loc>
+        <image:title>7commonproblems@3x</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://blog.workep.com/g-suite-project-management-magic-spell-to-success</loc>
+    <lastmod>2020-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://blog.workep.com/hs-fs/hubfs/Taskemail.gif?width=600&amp;name=Taskemail.gif</image:loc>
         <image:title>Taskemail</image:title>
@@ -695,20 +1621,10 @@
       </image:image>
   </url>
   <url>
-    <loc>https://blog.workep.com/7-common-problems-a-pm-has-and-how-to-effectively-solve-them</loc>
-    <lastmod>2020-06-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-      <image:image>
-        <image:loc>https://blog.workep.com/hs-fs/hubfs/5commonproblems@3x.png?width=600&amp;name=5commonproblems@3x.png</image:loc>
-        <image:title>7commonproblems@3x</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://blog.workep.com/agile-methodology-vs-traditional-pm-methodologies</loc>
-    <lastmod>2020-06-20</lastmod>
+    <lastmod>2020-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://blog.workep.com/hs-fs/hubfs/llll@3x.png?width=3600&amp;name=llll@3x.png</image:loc>
         <image:title>llll@3x</image:title>
@@ -716,9 +1632,9 @@
   </url>
   <url>
     <loc>https://blog.workep.com/the-project-management-process-for-dummies</loc>
-    <lastmod>2020-06-20</lastmod>
+    <lastmod>2020-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://blog.workep.com/hubfs/Project%20Management%20Process.png</image:loc>
         <image:title>Project Management Process</image:title>
@@ -726,9 +1642,9 @@
   </url>
   <url>
     <loc>https://blog.workep.com/things-a-project-manager-should-do-every-day</loc>
-    <lastmod>2020-06-20</lastmod>
+    <lastmod>2020-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://blog.workep.com/hs-fs/hubfs/project%20management%20activities.png.png?width=600&amp;name=project%20management%20activities.png.png</image:loc>
         <image:title>project management activities.png</image:title>
@@ -736,9 +1652,9 @@
   </url>
   <url>
     <loc>https://blog.workep.com/how-to-choose-the-pm-methodology-that-best-suits-you</loc>
-    <lastmod>2020-06-20</lastmod>
+    <lastmod>2020-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://blog.workep.com/hs-fs/hubfs/PM%20methodologies%20(agile,%20waterfall,%20six%20sigma).png?width=600&amp;name=PM%20methodologies%20(agile,%20waterfall,%20six%20sigma).png</image:loc>
         <image:title>PM methodologies (agile, waterfall, six sigma)</image:title>
@@ -750,9 +1666,9 @@
   </url>
   <url>
     <loc>https://projectmanagement.workep.com/become-a-partner</loc>
-    <lastmod>2020-06-20</lastmod>
+    <lastmod>2020-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://projectmanagement.workep.com/hubfs/defaultPending_lugsdl.png</image:loc>
         <image:title>smiles</image:title>
@@ -768,9 +1684,9 @@
   </url>
   <url>
     <loc>https://projectmanagement.workep.com/pdf-project-management</loc>
-    <lastmod>2020-06-20</lastmod>
+    <lastmod>2020-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://projectmanagement.workep.com/hs-fs/hubfs/logo.png?width=152&amp;name=logo.png</image:loc>
         <image:title>logo</image:title>
@@ -870,9 +1786,9 @@
   </url>
   <url>
     <loc>https://workep.com/es/es.html</loc>
-    <lastmod>2020-06-26</lastmod>
+    <lastmod>2020-07-30</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://workep.com/images/menu_bars.svg</image:loc>
         <image:title>workep menu</image:title>

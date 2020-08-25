@@ -1,5 +1,9 @@
 User-Agent: *
-Disallow: 
-Disallow: /app.workep.com/login
+Disallow: /cdn-cgi/l/email-protection
+Disallow: /app.workep.com/login 
+Disallow: /js/demos.js
+Disallow: /webinars.html
+Disallow: /css/
+Disallow: /js/
 
 Sitemap: https://workep.com/sitemap.xml
