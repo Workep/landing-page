@@ -6,5 +6,6 @@ Disallow: /webinars.html
 Disallow: /css/
 Disallow: /js/
 Disallow: https://blog.workep.com/es/author/jose-munévar
+Disallow: https://workep.com/webinars.html
 
 Sitemap: https://workep.com/sitemap.xml
