@@ -7,5 +7,7 @@ Disallow: /css/
 Disallow: /js/
 Disallow: blog.workep.com/es/author/jose-munévar
 Disallow: workep.com/webinars.html
+Disallow: https://workep.com/madeforgoogle.html
+Disallow: https://workep.com/downloadapps.html
 
 Sitemap: https://workep.com/sitemap.xml
