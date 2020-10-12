@@ -1,3 +1,26 @@
+var countryCodes = [
+  'mx',
+  'co',
+  'ar',
+  've',
+  'pe',
+  'cl',
+  'gt',
+  'ec',
+  'cu',
+  'bo',
+  'do',
+  'hn',
+  'sv',
+  'py',
+  'ni',
+  'cr',
+  'pr',
+  'pa',
+  'uy',
+  'gq',
+]
+
 if (window.location.pathname === '/'
   || window.location.pathname === '/product.html'
   || window.location.pathname === '/made-for-google.html'
@@ -5,8 +28,10 @@ if (window.location.pathname === '/'
   || window.location.pathname === '/partners.html'
   || window.location.pathname === '/workep-for-education.html'
   || window.location.pathname === '/download-apps.html') {
-  $.get('https://api.workep.com/api/country-code', (response) => {
-    if (response.data.toLowerCase() !== 'es') return
+  $.get('https://api.workep.com/api/country-code', function (response) {
+    var countryCode = response.data.toLowerCase()
+
+    if (!countryCodes.includes(countryCode.toLowerCase())) return
 
     if (window.location.pathname === '/') {
       window.location = 'https://workep.com/es/es.html'
