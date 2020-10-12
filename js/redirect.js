@@ -1,47 +1,44 @@
-console.log(window.location)
-
-if (window.location.pathname === 'https://workep.com'
-  || window.location.pathname === 'https://workep.com/product.html'
-  || window.location.pathname === 'https://workep.com/made-for-google.html'
-  || window.location.pathname === 'https://workep.com/pricing.html'
-  || window.location.pathname === 'https://workep.com/partners.html'
-  || window.location.pathname === 'https://workep.com/workep-for-education.html'
-  || window.location.pathname === 'https://workep.com/download-apps.html') {
+if (window.location.pathname === '/'
+  || window.location.pathname === '/product.html'
+  || window.location.pathname === '/made-for-google.html'
+  || window.location.pathname === '/pricing.html'
+  || window.location.pathname === '/partners.html'
+  || window.location.pathname === '/workep-for-education.html'
+  || window.location.pathname === '/download-apps.html') {
   $.get('https://api.workep.com/api/country-code', (response) => {
-    console.log(response)
     if (response.data !== 'ES') return
 
-    if (window.location.pathname === 'https://workep.com') {
+    if (window.location.pathname === '/') {
       window.location = 'https://workep.com/es/es.html'
       return
     }
 
-    if (window.location.pathname === 'https://workep.com/product.html') {
+    if (window.location.pathname === '/product.html') {
       window.location = 'https://workep.com/es/producto.html'
       return
     }
 
-    if (window.location.pathname === 'https://workep.com/made-for-google.html') {
+    if (window.location.pathname === '/made-for-google.html') {
       window.location = 'https://workep.com/es/hecho-para-google.html'
       return
     }
 
-    if (window.location.pathname === 'https://workep.com/pricing.html') {
+    if (window.location.pathname === '/pricing.html') {
       window.location = 'https://workep.com/es/precios.html';
       return
     }
 
-    if (window.location.pathname === 'https://workep.com/partners.html') {
+    if (window.location.pathname === '/partners.html') {
       window.location = 'https://workep.com/es/socios.html';
       return
     }
 
-    if (window.location.pathname === 'https://workep.com/workep-for-education.html') {
+    if (window.location.pathname === '/workep-for-education.html') {
       window.location = 'https://workep.com/es/workep-para-educacion.html';
       return
     }
 
-    if (window.location.pathname === 'https://workep.com/download-apps.html') {
+    if (window.location.pathname === '/download-apps.html') {
       window.location = 'https://workep.com/es/descargar-apps.html'
       return
     }
