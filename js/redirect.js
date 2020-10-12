@@ -1,3 +1,5 @@
+console.log(window.location)
+
 if (window.location.pathname === 'https://workep.com'
   || window.location.pathname === 'https://workep.com/product.html'
   || window.location.pathname === 'https://workep.com/made-for-google.html'
