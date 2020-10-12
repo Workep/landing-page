@@ -6,7 +6,7 @@ if (window.location.pathname === '/'
   || window.location.pathname === '/workep-for-education.html'
   || window.location.pathname === '/download-apps.html') {
   $.get('https://api.workep.com/api/country-code', (response) => {
-    if (response.data !== 'ES') return
+    if (response.data.toLowerCase() !== 'es') return
 
     if (window.location.pathname === '/') {
       window.location = 'https://workep.com/es/es.html'
