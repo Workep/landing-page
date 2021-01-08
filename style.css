@@ -2004,7 +2004,7 @@ top: 0%;}
 .team_guest_box, .team_guest_box1, .team_guest_box2 img{cursor: pointer}
 .collaboration_list_index_box,.team_guest_box{-webkit-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out;transition: all 0.3s ease-in-out;}
 
-.where_we_work_tab_slider .where_we_work_list{max-width: 870px; margin-left: auto; margin-right: auto;}
+.where_we_work_tab_slider .where_we_work_list{max-width: 670px; margin-left: auto; margin-right: auto;}
 .where_we_work_countryslider .where_we_work_list{max-width: 1000px; margin-left: auto; margin-right: auto;}
 
 .where_we_work_countryslider .where_we_work_list .slick-slide.slick-current a i{border: 1px solid #fff;}
