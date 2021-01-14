@@ -9,5 +9,7 @@ Disallow: blog.workep.com/es/author/jose-munévar
 Disallow: workep.com/webinars.html
 Disallow: https://workep.com/madeforgoogle.html
 Disallow: https://workep.com/downloadapps.html
+Disallow: https://workep.com//projects-made-easy-f.html
+Disallow: https://workep.com/projects-made-easy-g.html
 
 Sitemap: https://workep.com/sitemap.xml
