@@ -407,7 +407,7 @@ display: flex; justify-content: center;}
 .joinworkep_btns{width: 100%; text-align: center; padding-top: 40px;}
 .joinworkep_btns ul{padding: 0; list-style: none; margin: 0 auto; display: table;}
 .joinworkep_btns ul li{ float: left; margin: 0 10px;}
-.signupgoogle,.g_suitbtn{display: inline-block; padding:8px 29px; background:#fff; -webkit-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-moz-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-webkit-border-radius: 30px;
+.signupgoogle,.g_suitbtn,.book-demo{display: inline-block; padding:8px 29px; background:#fff; -webkit-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-moz-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-webkit-border-radius: 30px;
 -moz-border-radius: 30px; border-radius: 30px; min-height: 65px;-ms-flex-align: center;
 -webkit-align-items: center;-webkit-box-align: center;align-items: center;
 display: -webkit-box;
@@ -415,11 +415,12 @@ display: -moz-box;
 display: -ms-flexbox;
 display: -webkit-flex;
 display: flex; font-weight: 700; font-size: 16px;color: #273238;}
-.signupgoogle span,.g_suitbtn span{text-align: left;}
+.signupgoogle span,.g_suitbtn,.book-demo span{text-align: left;}
 .signupgoogle{background: url(images/google_ic.png) no-repeat 34px center #fff; background-size: 28px; padding-left: 84px !important;}
 .signupgoogle:hover{background-color: #273238; color: #fff;}
+.book-demo:hover{background-color: #273238; color: #fff;}
 
-
+.book-demo{background: url(images/meet-icon.svg) no-repeat 34px center #ffffff; background-size: 30px; padding-left: 75px !important; color: #273238;}
 .g_suitbtn{background: url(images/g_market.png) no-repeat 34px center #273238; background-size: 30px; padding-left: 75px !important; color: #fff;}
 .ratings_star i{font-size: 11px; line-height: 12px;}
 
@@ -1988,10 +1989,11 @@ top: 0%;}
 
 
 
-.index_banner_content .signupgoogle, .index_banner_content .g_suitbtn{font-size: 14px; min-height: 50px; line-height: 18px;
+.index_banner_content .signupgoogle, .index_banner_content .g_suitbtn,.index_banner_content .book-demo{font-size: 14px; min-height: 50px; line-height: 18px;
   padding-left: 25px;padding-right: 25px;background-position: 25px center;}
 .index_banner_content .g_suitbtn{background-size: 25px;padding-left: 62px !important;}
 .index_banner_content .signupgoogle{background-size: 24px;padding-left: 60px !important;}
+.index_banner_content .book-demo{background-size: 24px;padding-left: 60px !important;}
 
 
 .collaboration_list_index_tabcontent{width: 100%;display: inline-block;}
@@ -2251,7 +2253,7 @@ h2{font-size: 40px; line-height: 45px;}
 .madeforgoogle_banner{padding-top: 140px; padding-bottom: 140px;}
 .madeforgoogle_banner{min-height: 650px;}
 
-.madeforgoogle_banner .signupgoogle, .madeforgoogle_banner .g_suitbtn{padding: 8px 23px; min-height: 60px; font-size: 12px;}
+.madeforgoogle_banner .signupgoogle, .madeforgoogle_banner .g_suitbtn,.madeforgoogle_banner .book-demo{padding: 8px 23px; min-height: 60px; font-size: 12px;}
 .madeforgoogle_banner .joinworkep_btns ul li{margin: 0 6px;}
 .missing_half_gsuit_im{max-width: 540px;}
 
@@ -2536,7 +2538,7 @@ h2{font-size: 30px; line-height: 40px;}
 .madeforgoogle_banner_box{padding: 25px;}
 .madeforgoogle_banner{min-height: 500px; padding-top: 110px; padding-bottom: 80px;}
 
-.madeforgoogle_banner .signupgoogle, .madeforgoogle_banner .g_suitbtn{padding: 8px 11px; font-size: 11px;}
+.madeforgoogle_banner .signupgoogle, .madeforgoogle_banner .g_suitbtn, .madeforgoogle_banner .book-demo{padding: 8px 11px; font-size: 11px;}
 .madeforgoogle_banner_R .joinworkep_btns .signupgoogle{background-size: 22px;
 padding-left: 50px !important; background-position: 17px center;}
 .madeforgoogle_banner_R .joinworkep_btns .g_suitbtn{background-size: 24px;padding-left: 56px !important;background-position: 17px center;}
@@ -2990,7 +2992,7 @@ flex: 0 0 100%;max-width: 100%;padding-left: 0;text-align: center;}
 
 .index_banner_content h1{font-size: 25px; line-height: 28px;}
 .index_banner_content{top: 17%;}
-.index_banner_content .signupgoogle, .index_banner_content .g_suitbtn{font-size: 11px;line-height: 20px; padding: 3px 20px;}
+.index_banner_content .signupgoogle, .index_banner_content .g_suitbtn,.index_banner_content .book-demo{font-size: 11px;line-height: 20px; padding: 3px 20px;}
 .index_banner_content .signupgoogle{background-size: 18px;background-position: 20px center;padding-left: 48px !important;}
 .index_banner_content .g_suitbtn{background-size: 18px; background-position: 20px center;padding-left: 48px !important;}
 .index_banner_content .joinworkep_btns ul li{margin-bottom: 10px;}
@@ -3039,6 +3041,7 @@ h2{font-size: 25px; line-height: 30px;}
 .foot_bot_blog{text-align: right;}
 .foot_bot_soc{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%; margin-bottom: 10px; text-align: center;}
 .signupgoogle, .g_suitbtn{font-size: 14px;}
+.signupgoogle, .book-demo{font-size: 14px;}
 
 .foot_bot .container{padding-left: 30px; padding-right: 30px; }
 .foot_bot_soc{order: 4; margin-bottom: 0;}
