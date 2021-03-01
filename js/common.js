@@ -1,4 +1,5 @@
-// images comparison
+
+          // images comparison
 document.addEventListener('DOMContentLoaded', domReady);
   function domReady() {
       new Dics({

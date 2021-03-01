@@ -400,8 +400,8 @@ display: flex; justify-content: center;}
 .joinworkep .container{position: relative;z-index: 1;}
 .joinworkep p{ font-size: 22px;line-height: 36px;font-weight: 600; color: #617d8a; }
 
-.joinworkep_btns{width: 100%; text-align: center; padding-top: 40px;}
-.joinworkep_btns ul{padding: 0; list-style: none; margin: 0 auto; display: table;}
+.joinworkep_btns{width: 100%; text-align: center; padding-top: 40px; display: grid;}
+.joinworkep_btns ul{padding: 0; list-style: none; margin: 0 auto; display:flex; align-items: baseline;}
 .joinworkep_btns ul li{ float: left; margin: 0 10px; line-height: 20px;}
 .signupgoogle,.g_suitbtn{display: inline-block; padding:8px 29px; background:#fff; -webkit-box-shadow: 0px 3px 7px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 3px 7px 0px rgba(0,0,0,0.05);box-shadow: 0px 3px 7px 0px rgba(0,0,0,0.05);-webkit-border-radius: 30px;
 -moz-border-radius: 30px; border-radius: 30px; min-height: 65px;-ms-flex-align: center;
@@ -474,8 +474,8 @@ display: flex;}
 .footlanguage,.foot_bot_blog,.foot_bot_soc,.app_storelink{padding-left: 15px; padding-right: 15px;}
 
 .footlanguage_select select{background: none; border:none; color: #fff; font-size: 17px; line-height: 20px; width: 128px;
-background: url(images/arrow_down_white.svg) no-repeat right center transparent; background-size: 12px;padding-left: 0; padding-right: 20px !important; cursor: pointer; outline: none !important; }
-.footlanguage_select{width: 100%; background: url(images/language.png) no-repeat left center; padding-left: 33px; background-size: 26px; }
+background: url(../images/arrow_down_white.svg) no-repeat right center transparent; background-size: 12px;padding-left: 0; padding-right: 20px !important; cursor: pointer; outline: none !important; }
+.footlanguage_select{width: 100%; background: url(../images/language.png) no-repeat left center; padding-left: 33px; background-size: 26px; }
 .footlanguage{-webkit-box-flex: 0; -ms-flex: 0 0 20%; flex: 0 0 20%;  max-width: 20%;}
 .foot_bot_blog{-webkit-box-flex: 0; -ms-flex: 0 0 10%; flex: 0 0 10%;  max-width: 10%;}
 .foot_bot_soc{-webkit-box-flex: 0; -ms-flex: 0 0 16%; flex: 0 0 16%;  max-width: 16%;}
@@ -2430,7 +2430,7 @@ max-width: 435px;margin-bottom: 0;}
 .partner_banner.marketing_to_banner .row .partner_banner_lft{top: 50%;}
 .marketing_to_banner{position: relative;}
 .marketing_to_banner.bg1:after{ max-width: 1263px; height: 858px;  position: absolute; right: 0; top: 0; 
-background: url(images/marketing_bg1.png) no-repeat top right; background-size: 100%; content: ''; width: 100%;}
+background: url(../images/marketing_bg1.png) no-repeat top right; background-size: 100%; content: ''; width: 100%;}
 
 .marketing_to_banner.bg1 .partner_banner_rt{position: relative;z-index: 1;}
 
@@ -2485,11 +2485,11 @@ width: 25px; height: 25px; background-size: 16px; position: absolute; left: 0; t
 
 
 .syncs_auto{position: relative;}
-.syncs_auto:before{width: 442px; height: 1159px; background: url(images/syc_bg1.png) no-repeat left top; background-size: 100%;
+.syncs_auto:before{width: 442px; height: 1159px; background: url(../images/syc_bg1.png) no-repeat left top; background-size: 100%;
 position: absolute; left: 0; top: 240px; content: '';}
 
 .marketing_content_blocks{position: relative;}
-.marketing_content_blocks:after{width: 772px; height: 688px; background: url(images/syc_bg2.png) no-repeat right bottom; background-size: 100%;
+.marketing_content_blocks:after{width: 772px; height: 688px; background: url(../images/syc_bg2.png) no-repeat right bottom; background-size: 100%;
 position: absolute; right: 0; bottom: -130px; content: '';}
 
 .marketing_content_blocks{padding-top: 20px;}

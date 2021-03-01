@@ -207,7 +207,7 @@ display: -webkit-flex;display: flex; margin-left: 36px; margin-top: 20px; positi
 
 
 
-.pricing_boxT{min-height: 90px;}
+.pricing_boxT{min-height:30px;}
 .pricing_box{width: 100%; background:#fff;-webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;
 -webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.1);-moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.1);
 box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.1); padding: 15px 35px; min-height: 198px;color: #395a64 !important; position: relative; display: inline-block; width: 100%; text-align: left;}
@@ -218,12 +218,12 @@ box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.1); padding: 15px 35px; min-height: 198
 
 
 .pricing_sec{position: relative;z-index: 1;}
-.pricing_box  h4{font-size: 30px; line-height: 30px; color: #395a64; font-weight: 600; margin: 0 0 15px 0;}
+.pricing_box  h4{font-size: 30px; line-height: 30px; color: #395a64; font-weight: 600; margin: 0 0 15px 0;} 
 .pricing_box p{font-size: 14px;}
 
 .pricing_boxB{width: 100%; padding-left: 0; margin-top: 12px;}
 .pricetxt strong{font-size: 32px; font-weight: 700; line-height: 37px; position: relative; top: 4px; margin-right: 10px;}
-
+.pricetxt-a strong{font-size: 32px; font-weight: 700; line-height: 37px; position: relative; top: 4px; margin-right: 10px;}
 .pricing_sec_top .col-md-4:nth-child(1) .pricing_box .pricing_boxB{text-align: center;}
 .terms_notes{font-size: 11px;margin-top: 6px;display: block;}
 
@@ -242,11 +242,60 @@ background:url(images/lightning.svg) no-repeat 7% center #fff; background-size: 
 .pricing_sec_top ul{margin-bottom: 0;}
 .pricing_sec_top{margin-bottom: 55px;}
 .pricing_sec_top ul li{padding-bottom: 50px;}
-.pricing_sec_top ul li.current .pricing_box{background:#2196f3; color: #fff !important;}
+.pricing_sec_top ul li.current .pricing_box{background:#2196f3; color: #fff !important; height: 334px;}
 .pricing_sec_top ul li.current .pricing_box h4{color: #fff;}
 .pricing_sec_top ul li.current .pricing_box_trial{opacity: 1;}
 .lite_plan .pricing_box_trial span{background-image:url(images/move-to-next-grey.svg); background-size: 18px; padding-left: 70px !important;}
 
+
+.pricing_sec_top .center-cheker{
+display: grid;
+margin: 0 auto;
+}
+.pricing_sec_top .center-facturation-cicle{
+  align-self: center;
+  justify-self: center;
+  font-size: 26px;
+  line-height: 30px;  
+}
+
+.pricing_sec_top .plan-checker{
+  width:80px;
+  height:40px;
+  appearance:none;
+  align-self: center;
+  justify-self: center;
+  -webkit-appearance:none;
+  background: #c6c6c6;
+  outline: none;
+  border-radius: 20px;
+  box-shadow:  inset 0 0 5px rgba(0,0,0,.2);
+  transition: .5s;
+  position: relative;
+}
+
+.pricing_sec_top input:checked[type="checkbox"]{
+  background: #03a9f4;
+}
+
+.pricing_sec_top input[type="checkbox"]:before
+{
+content: '';
+position: absolute;
+width: 40px;
+height: 40px;
+border-radius: 20px;
+top:0px;
+left:0px;
+background: #fff;
+transform: scale(1.1);
+box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+transition:  .5s;
+}
+
+.pricing_sec_top input:checked[type="checkbox"]:before{
+  left: 40px;
+}
 
 .prod_feature_block{width: 100%;}
 .prod_feature_block ul{justify-content: center;display: -webkit-box;
@@ -405,7 +454,7 @@ display: flex; justify-content: center;}
 .joinworkep p{ font-size: 22px;line-height: 36px;font-weight: 600; color: #617d8a; }
 
 .joinworkep_btns{width: 100%; text-align: center; padding-top: 40px;}
-.joinworkep_btns ul{padding: 0; list-style: none; margin: 0 auto; display: table;}
+.joinworkep_btns ul{padding: 0; list-style: none; margin: 0 auto; display:flex; align-items: baseline;}
 .joinworkep_btns ul li{ float: left; margin: 0 10px;}
 .signupgoogle,.g_suitbtn,.book-demo{display: inline-block; padding:8px 29px; background:#fff; -webkit-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-moz-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-webkit-border-radius: 30px;
 -moz-border-radius: 30px; border-radius: 30px; min-height: 65px;-ms-flex-align: center;
@@ -925,7 +974,7 @@ background: url(images/green-tick.png) no-repeat center center; background-size:
 }
 
 .missing_half_btn{text-align: center;}
-.missing_half_btn .signupgoogle{ width: 300px;margin: 0 auto;}
+.missing_half_btn .signupgoogle{ width: 300px;margin: 0 auto; cursor: pointer;}
 .benefits_become_partner{width: 100%; position: relative;}
 .benefits_become_partner:before{position: absolute; right: 0; top: -100px; width: 914px; height: 1070px;
 background: url(images/benefits_becoming_partner_bg.png) no-repeat right top; background-size: 100%; content: '';}
@@ -1993,7 +2042,7 @@ top: 0%;}
   padding-left: 25px;padding-right: 25px;background-position: 25px center;}
 .index_banner_content .g_suitbtn{background-size: 25px;padding-left: 62px !important;}
 .index_banner_content .signupgoogle{background-size: 24px;padding-left: 60px !important;}
-.index_banner_content .book-demo{background-size: 24px;padding-left: 60px !important;}
+.index_banner_content .book-demo{background-size: 24px;padding-left: 60px !important; cursor: pointer;}
 
 
 .collaboration_list_index_tabcontent{width: 100%;display: inline-block;}
@@ -2138,6 +2187,7 @@ h2{font-size: 40px; line-height: 45px;}
 .pricing_box{padding-left: 20px; padding-right: 20px;}
 .pricing_box h4{font-size: 26px; line-height: 30px;}
 .pricetxt strong{font-size: 26px; line-height: 30px;}
+.pricetxt-a strong{font-size: 26px; line-height: 30px;}
 .mostpoular_tg{padding: 5px 11px;}
 .pricing_box_trial span{font-size: 16px; line-height: 20px; min-width: 265px; padding-left: 40px !important; background-position: 5% center;}
 .lite_plan .pricing_box_trial span{padding-left: 60px !important;}
@@ -2652,9 +2702,12 @@ padding-left: 50px !important; background-position: 17px center;}
 }
 
 .pricing_box{min-height: auto;}
+.pricing_box:hover{box-shadow:rgb(0 0 0 / 15%) 8px 8px 30px;}
 .pricing_sec_top ul li{padding-bottom: 32px;}
 .pricing_box_trial{bottom: -26px;}
 
+
+.pricing_sec_top ul li {    padding-bottom: 0px!important;}
 
 .pricing_sec .resp-accordion .resp-arrow{display: none;}
 .pricing_sec .resp-accordion{padding-bottom: 30px;}
