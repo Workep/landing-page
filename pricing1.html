@@ -1,14 +1,10 @@
-
-
-
-
-
 <!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="googlebot" content="noindex" />
 
     <!-- Google indicator for language  -->
     <link rel="alternate" hreflang="en" href="https://workep.com/" />
@@ -125,6 +121,10 @@
   <div class="container">
     <div class="section_title">
       <h2>Low prices, high productivity!</h2>
+      <div class="center-cheker">
+        <p class="center-facturation-cicle">Montly/Anually</p>
+        <input type="checkbox" name="" onchange="showPrice()" class="plan-checker" checked="checked">
+      </div>
     </div>
     <div class="jwg_slider_module" id="horizontalTab">
           <div class="pricing_sec_top tabbed_navigation">
@@ -136,7 +136,6 @@
                     <h4>Lite</h4>
                     <!--<p>Basic with limited seats and Features</p>-->
                   </div>
-
                   <div class="pricing_boxB">
                       <p style="line-height: 1.6!important;">List view<br>
                       Kanban view<br>
@@ -190,61 +189,24 @@
               </li>
                 <li class="col-lg-2 col-md-6"></li>
             </ul>
-            <div class="center-cheker">
-              <p class="center-facturation-cicle">Montly/Anually</p>
-              <input type="checkbox" name="" onchange="showPrice()" class="plan-checker" checked="checked">
-            </div>
-          </div>
-         
+          </div> 
           </div>
       </div>
-  </div>
-
-
-
-  <div class="lovedby_thousand common_gap">
-    <h3 class="lovedby_thousand_title"><i class="heart_im"><img src="images/heart_im.png" alt="made with love"></i>Loved by thousands of companies</h3>
-   <div class="companies_list">
-     <div class="companies1 wow bounceInUp" data-wow-delay="0.001s" data-wow-duration="3s">
-       <img src="images/comp1.png" alt="Latam">
-     </div>
-     <div class="companies2 wow bounceInUp" data-wow-delay="0.002s" data-wow-duration="3s" >
-       <img src="images/comp2.png" alt="shutterstock">
-     </div>
-     <div class="companies3 wow bounceInUp" data-wow-delay="0.003s" data-wow-duration="3s" >
-       <img src="images/comp3.png" alt="mobivia">
-     </div>
-     <div class="companies4 wow bounceInUp" data-wow-delay="0.004s" data-wow-duration="3s" >
-       <img src="images/comp4.png" alt="N">
-     </div>
-     <div class="companies5 wow bounceInUp" data-wow-delay="0.005s" data-wow-duration="3s" >
-       <img src="images/comp5.png" alt="DUO">
-     </div>
-     <div class="companies6 wow bounceInUp" data-wow-delay="0.006s" data-wow-duration="3s" >
-       <img src="images/comp6.png" alt="Lyft">
-     </div>
-     <div class="companies7 wow bounceInUp" data-wow-delay="0.007s" data-wow-duration="3s" >
-       <img src="images/comp7.png" alt="Columbia university">
-     </div>
-     <div class="companies8 wow bounceInUp" data-wow-delay="0.008s" data-wow-duration="3s" >
-       <img src="images/comp8.png" alt="Ayenda Rooms">
-     </div>
-     <div class="companies9 wow bounceInUp" data-wow-delay="0.009s" data-wow-duration="3s" >
-       <img src="images/comp9.png" alt="Aero mexico">
-     </div>
-     <div class="companies10 wow bounceInUp" data-wow-delay="0.010s" data-wow-duration="3s" >
-       <img src="images/comp10.png" alt="TED">
-     </div>
-     <div class="companies11 wow bounceInUp" data-wow-delay="0.011s" data-wow-duration="3s" >
-       <img src="images/comp11.png" alt="Countyard Marriott">
-     </div>
-     <div class="companies12 wow bounceInUp" data-wow-delay="0.012s" data-wow-duration="3s" >
-       <img src="images/comp12.png" alt="Uber">
-     </div>
-     <div class="companies13 wow bounceInUp" data-wow-delay="0.013s" data-wow-duration="3s" >
-       <img src="images/comp13.png" alt="WIX">
-     </div>
-   </div>
+      <div class="phone-contact">
+        <p>Not sure which plan is right for you?<br>
+          Give us a call.</p>
+          <button class="phone-stage" onclick="this.innerHTML='Just Book a Meeting 👇👇👇'"  >See Phone number</button>
+               <!-- Calendly inline widget begin -->
+      <div class="calendly-inline-widget" style="min-width:320px;height:700px;" data-auto-load="false">
+        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+        <script>
+        Calendly.initInlineWidget({
+        url: 'https://calendly.com/camila-workep/60-min?month=2021-03'
+        });
+        </script>
+      </div>
+      <!-- Calendly inline widget end --> 
+      </div>      
   </div>
 
   <div class="faq_sec common_gap">
@@ -338,7 +300,6 @@
             </div>
           </div>
          </div>
-
     </div>
   </div>
 
@@ -470,8 +431,6 @@
 <script src="js/redirect.js?version=3"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script>
-
-
   function showPrice(){
   
     var checker = document.getElementsByClassName("plan-checker");
@@ -482,7 +441,6 @@
       document.getElementsByClassName("pricetxt")[0].style.display="none";
       document.getElementsByClassName("pricetxt")[1].style.display="none";
     } else{
-  
       document.getElementsByClassName("pricetxt-a")[0].style.display="none";
       document.getElementsByClassName("pricetxt-a")[1].style.display="none";
       document.getElementsByClassName("pricetxt")[0].style.display="block";
@@ -491,6 +449,5 @@
     }
   }
   </script>
-
   </body>
 </html>
