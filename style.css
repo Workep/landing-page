@@ -349,6 +349,7 @@ font-weight: 600; z-index: 9;}
 .heart_im img{width: 35px;}
 
 .between_you_us{position: relative; }
+
 .between_you_us:after{content: ''; position: absolute; right: 0; top: -190px; background:url(images/blue_bg2.png) no-repeat right top; height: 1756px; width: 837px; background-size: 100%;}
 .between_you_us .container{position: relative; z-index: 1;}
 
@@ -484,6 +485,7 @@ display: flex; font-weight: 700; font-size: 16px;color: #273238;}
 .signupgoogle{background: url(images/google_ic.png) no-repeat 34px center #fff; background-size: 28px; padding-left: 84px !important;}
 .signupgoogle:hover{background-color: #273238; color: #fff;}
 .book-demo:hover{background-color: #273238; color: #fff;}
+  ººººººººººººººººº111111111111111111111deeeeeeeeeeeeeeeeeees
 
 .book-demo{background: url(images/meet-icon.svg) no-repeat 34px center #ffffff; background-size: 30px; padding-left: 75px !important; color: #273238;}
 .g_suitbtn{background: url(images/g_market.png) no-repeat 34px center #273238; background-size: 30px; padding-left: 75px !important; color: #fff;}
