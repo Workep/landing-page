@@ -473,7 +473,7 @@ display: flex; justify-content: center;}
 .joinworkep_btns{width: 100%; text-align: center; padding-top: 40px;}
 .joinworkep_btns ul{padding: 0; list-style: none; margin: 0 auto; display:flex; align-items: baseline;justify-content:center;}
 .joinworkep_btns ul li{ float: left; margin: 0 10px;}
-.signupgoogle,.g_suitbtn,.book-demo{display: inline-block; padding:8px 29px; background:#fff; -webkit-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-moz-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-webkit-border-radius: 30px;
+.signupgoogle,.g_suitbtn,.book-demo{display: inline-block; padding:8px 29px; background:#fff; -webkit-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-moz-box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);box-shadow: 0px 1px 7px 0px rgba(0,0,0,0.15);-webkit-border-radius: 30px;}
 -moz-border-radius: 30px; border-radius: 30px; min-height: 65px;-ms-flex-align: center;
 -webkit-align-items: center;-webkit-box-align: center;align-items: center;
 display: -webkit-box;
@@ -485,8 +485,6 @@ display: flex; font-weight: 700; font-size: 16px;color: #273238;}
 .signupgoogle{background: url(images/google_ic.png) no-repeat 34px center #fff; background-size: 28px; padding-left: 84px !important;}
 .signupgoogle:hover{background-color: #273238; color: #fff;}
 .book-demo:hover{background-color: #273238; color: #fff;}
-  ººººººººººººººººº111111111111111111111deeeeeeeeeeeeeeeeeees
-
 .book-demo{background: url(images/meet-icon.svg) no-repeat 34px center #ffffff; background-size: 30px; padding-left: 75px !important; color: #273238;}
 .g_suitbtn{background: url(images/g_market.png) no-repeat 34px center #273238; background-size: 30px; padding-left: 75px !important; color: #fff;}
 .ratings_star i{font-size: 11px; line-height: 12px;}
