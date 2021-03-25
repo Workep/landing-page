@@ -129,6 +129,16 @@ display: -webkit-flex;display: flex; margin-left: 36px; margin-top: 20px; positi
 
 .starttrial_btn:hover{ color: #fff; background-color:#1ca7f9 !important; }
 
+.signupgoogle, .book-demo{
+  display: flex;
+  font-weight: 700;
+  font-size: 16px;
+  color: #273238;
+  border-radius: 30px;
+  padding: 8px 29px;
+  line-height: 32px!important;
+  }
+
 
 /* right bounce */
 @-webkit-keyframes bounceRight {
